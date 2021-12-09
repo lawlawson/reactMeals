@@ -19,6 +19,7 @@ const Checkout = () => {
         <label>City</label>
         <input type='text' id='city' />
       </div>
+      <button>Confirm</button>
     </form>
   );
 };
